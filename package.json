@@ -1,0 +1,23 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "promise",
+  "main": "promise4.js",
+  "scripts": {
+    "test": "promises-aplus-tests ./lib/promise4.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianfanfan/promise.git"
+  },
+  "keywords": [
+    "promise",
+    "tianfan"
+  ],
+  "author": "tianfanfan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tianfanfan/promise/issues"
+  },
+  "homepage": "https://github.com/tianfanfan/promise#readme"
+}
