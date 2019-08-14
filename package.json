@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/tianfanfan/promise/issues"
   },
-  "homepage": "https://github.com/tianfanfan/promise#readme"
+  "homepage": "https://github.com/tianfanfan/promise#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
 }
